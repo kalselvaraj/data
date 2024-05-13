@@ -1,4 +1,4 @@
-#Langchain project 001
+#Langchain project 01
 from flask import Flask, render_template, request, jsonify
 from dotenv import load_dotenv
 
